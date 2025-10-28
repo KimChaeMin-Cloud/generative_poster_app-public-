@@ -1,0 +1,9 @@
+streamlit>=1.38
+numpy
+pandas
+matplotlib
+pillow
+scikit-learn
+# 필요 시
+# openai==1.*
+# plotly
